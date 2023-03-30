@@ -1,0 +1,101 @@
+AccountID,Name,Country,PrimaryContactID,CurrencyDescription
+1,"Kutch, Shanahan and O'Conner",United States,d8ed4d82-368f-425d-8421-9fdef2394a7f,United States-Dollar
+2,Reilly-Leuschke,Japan,5f6d1862-e94f-481b-8933-51e6df438e48,Japan-Yen
+3,McGlynn Group,Germany,2d4b3675-38cb-4f08-8310-1b6323d063c1,Germany-Euro
+4,Stehr LLC,Brazil,669bd636-b10c-4036-8949-057d731bf8fa,Brazil-Real
+5,Lind-McDermott,United States,,United States-Dollar
+6,Terry and Sons,Canada,bcdbf021-56f0-4ba8-80c8-f7556c05bfd2,Canada-Dollar
+7,Effertz Group,Japan,,Japan-Yen
+8,Klocko-McCullough,Germany,c25ee228-71ba-4d30-9731-89518505d644,Germany-Euro
+9,Casper Group,United States,aa218ac7-0560-46a2-8b86-eb730174ce18,United States-Dollar
+10,Osinski-Ledner,Germany,f927ddde-d61b-4a20-8b6a-9936cf0703a2,Germany-Euro
+11,"Becker, Lind and Simonis",United States,80e30c1b-cef2-4a2e-9a09-b980051d2bdc,United States-Dollar
+12,"Bernier, Farrell and Tremblay",Japan,49ce339b-ff7e-44e1-bc53-cc2c9aef17a2,Japan-Yen
+13,Waelchi-Kemmer,Canada,e3aec041-1001-4d07-80a3-f1ed5596d691,Canada-Dollar
+14,Treutel Group,Brazil,e3bcd164-3a66-403b-ab06-2cce5706f8c7,Brazil-Real
+15,"Ortiz, O'Hara and Romaguera",United States,bd24fbbe-004b-472a-9fa4-1c3790464fe3,United States-Dollar
+16,Lind Inc,Japan,4a2b693d-f856-42b0-9400-89ddcbe08805,Japan-Yen
+17,Hamill-Schroeder,Brazil,d360f416-9032-4fc2-bbfd-34054163f537,Brazil-Real
+18,Kuhlman Inc,Brazil,d7859e35-6d0a-44a0-8d20-5b646853f7f1,Brazil-Real
+19,Nitzsche-Harber,Ireland,,Ireland-Pound
+20,"Larkin, Parker and Kilback",Morocco,63dc30fc-c94c-4e56-badd-61230a9fe1fb,Morocco-Dirham
+21,"Bailey, Frami and Kohler",Ireland,dfcbb677-b33a-458a-92a3-b79b672d1faf,Ireland-Pound
+22,Murray Inc,Germany,9acd3822-8cd1-4582-83c6-c758abf69c93,Germany-Euro
+23,Schmitt Inc,Canada,,Canada-Dollar
+24,"Christiansen, Hansen and McClure",Germany,9869fb9e-9f3f-4871-bd8c-32950834bbd2,Germany-Euro
+25,"Feil, Herzog and Goodwin",United States,dd0b0adc-8419-4987-8e97-46caeb87e1f6,United States-Dollar
+26,Wintheiser-Medhurst,Morocco,aba2e5fb-c45d-4de8-b5f4-2bae43092279,Morocco-Dirham
+27,"Waelchi, Kuphal and Keeling",Brazil,cd1735c4-8325-401d-9ba4-f735234930ac,Brazil-Real
+28,Denesik-Weissnat,Brazil,6c26f79e-d0a3-4539-a770-9f9e1c6c8aa3,Brazil-Real
+29,"Runolfsson, Schaden and Hagenes",Canada,29f2fbe2-d299-4ca4-8a82-d447b8c7d720,Canada-Dollar
+30,"Witting, Blanda and Keebler",Brazil,9d3422fa-e1cd-4a0f-8741-295903d972e4,Brazil-Real
+31,"Heidenreich, Mante and Kuhic",United States,e7452ae6-7ea7-4396-9c1b-e4a3d902a059,United States-Dollar
+32,Stoltenberg-Runolfsdottir,Canada,8985360e-6c47-4495-ab64-3f1945b3ad2d,Canada-Dollar
+33,"Berge, Brakus and Wyman",Brazil,096383e1-47be-41fc-9cfa-f78084bdce53,Brazil-Real
+34,"Terry, Watsica and Bergstrom",Ireland,1ebefc3c-c173-45b1-9d7e-2d6bd85afc8d,Ireland-Pound
+35,"Hand, Wehner and Swaniawski",Brazil,33820c04-169a-4674-95c7-137452db7f09,Brazil-Real
+36,Stamm Inc,Hungary,d2d1f75a-6382-40c6-9f4d-ea0514ef3d36,Hungary-Forint
+37,McClure-Bayer,United States,976839f5-c4b4-4f38-ae36-b8ff52c89f02,United States-Dollar
+38,Prosacco LLC,Brazil,7dccaf72-5174-40f9-b0c7-514c7aff4c58,Brazil-Real
+39,Orn-Walsh,Brazil,16fd28d6-4922-4f71-83a4-cc8a9153e6a1,Brazil-Real
+40,Boehm and Sons,Canada,f5a3e316-f432-4e0e-b3aa-543c9fd94d98,Canada-Dollar
+41,McClure Group,United States,dd05e12b-3f52-48a6-8d67-ca19c4aff35f,United States-Dollar
+42,Jast-Haley,United States,8eadd117-65d4-4b38-888d-8a7177ae5107,United States-Dollar
+43,Fay LLC,Brazil,f7aedfa2-ecff-4dee-b9f0-771b9d230e46,Brazil-Real
+44,Legros-Brakus,United States,2ca37e0d-0163-45aa-b99d-7c75705857c4,United States-Dollar
+45,Borer LLC,Brazil,5391bdb5-c5c3-4a09-b2b6-b7983fc5b4e7,Brazil-Real
+46,Ebert LLC,United States,51d2636a-db15-45bd-9949-ba8e614cc79d,United States-Dollar
+47,"Green, Hintz and Tromp",Spain,dd51a764-022f-4576-944b-352562d83caa,Spain-Peseta
+48,"Langosh, Turner and Brown",Brazil,53c987f5-a1b0-4757-85ea-8c4ade59e6c4,Brazil-Real
+49,Mann Inc,Canada,4b650a39-49d1-49ab-b9c6-6146785123ce,Canada-Dollar
+50,"Morar, Davis and Lowe",,57e2773b-1baa-49dc-947c-d56f853c8600,
+51,"Grimes, Jacobson and Ziemann",Brazil,d8e59115-f87f-46b0-93f8-29bb6200543a,Brazil-Real
+52,Bartell Inc,Brazil,79648191-6bcf-4ffa-9f3d-4654dbe76b1d,Brazil-Real
+53,Johns-Cummings,Brazil,232897f3-eac0-42a8-9c16-ef4e269e37d1,Brazil-Real
+54,Walsh-Barton,Canada,8bdd2dc6-5508-41e1-8a8e-7598487f0aa5,Canada-Dollar
+55,Fisher Group,Brazil,44af1acb-638e-4dcb-b633-4d21c8372c37,Brazil-Real
+56,Armstrong and Sons,Canada,16425218-745e-4c6e-8b21-18f1eb87661c,Canada-Dollar
+57,"Halvorson, Marks and Wiegand",Brazil,b08f3fa7-e9fe-4e67-93e8-d50ea6ec44bd,Brazil-Real
+58,"Crist, Bauch and Franecki",Brazil,abcf8156-0e60-4d14-8087-bddb4b3c5d0a,Brazil-Real
+59,Davis-Reichel,,aaa90655-bf2b-4591-8bd3-7ca5f034387b,
+60,"Johns, Gottlieb and Mosciski",Canada,ba2f8b12-73c6-4f8d-ae56-7aeae6c2e65d,Canada-Dollar
+61,Gutmann-Rath,Japan,b99a36ce-7777-451f-9c05-32b084ca429e,Japan-Yen
+62,Nikolaus-Fritsch,Brazil,dcbab516-c61c-40f9-8089-118cd919f383,Brazil-Real
+63,Muller LLC,Brazil,6807855f-c84f-4529-9514-bb98e4f4dd48,Brazil-Real
+64,"Reinger, Koepp and Kunze",United States,8ad7f58a-fc26-4973-b65f-4f22769c29b3,United States-Dollar
+65,Cummings Inc,Brazil,500b020e-1182-478d-b4ff-0f79c2f833c7,Brazil-Real
+66,Sporer Inc,Brazil,0af6b04f-323b-438d-92ab-2712144bb493,Brazil-Real
+67,Considine-McDermott,United States,4852c86c-85d4-4f40-87ff-eb537bb75353,United States-Dollar
+68,Grady-McClure,Brazil,de67d228-d43e-4499-aa3e-121dc979355f,Brazil-Real
+69,Konopelski and Sons,Brazil,462cc966-c058-4ebb-9533-96d6d1e6338a,Brazil-Real
+70,"Brekke, Dooley and Adams",Brazil,d412a64c-be2f-4bcf-857b-5e5327576a6e,Brazil-Real
+71,Gleason-Hammes,Australia,47159bbe-7f62-414a-9c4b-e02a76d2473e,Australia-Dollar
+72,Cruickshank Inc,Ireland,01e62f0d-894d-4c93-b418-7d51f630fa40,Ireland-Pound
+73,Fritsch Inc,Canada,cac5195d-361d-479d-afa4-02dbffb30836,Canada-Dollar
+74,Stoltenberg-Marvin,Brazil,5988ad8d-ae22-4c68-9855-e890e7f9458f,Brazil-Real
+75,Huel and Sons,Japan,222448c2-88da-4fd6-8ac4-db6606e3f2e9,Japan-Yen
+76,Koelpin and Sons,Brazil,611cc4bf-bfa3-4d61-b163-294a8a7fea12,Brazil-Real
+77,Johns Inc,Japan,a92a93b4-3f80-4ecc-b9f6-e8bfd2e503ae,Japan-Yen
+78,McClure-Johns,Canada,febe1b2a-f2c6-4094-973e-2b2ed70e8a91,Canada-Dollar
+79,Hills Inc,Morocco,e1fed33f-5df2-4db8-aa3e-0c367ec2569e,Morocco-Dirham
+80,"Mills, Dach and Crist",Brazil,e304f6bd-5a99-4f4d-9f2b-cca43d4890d7,Brazil-Real
+81,"Robel, Weber and Lindgren",Brazil,87dd5ae2-3c15-4b9a-a023-cf0f655bf5c2,Brazil-Real
+82,Hills LLC,Brazil,26e8c78e-d4e9-4731-8605-97ada13e10fd,Brazil-Real
+83,Klocko-D'Amore,Japan,be6307a4-dc22-442f-aefb-27080ed5b5b1,Japan-Yen
+84,Cole-Wolff,Canada,9b029e7f-ce7f-4948-aaee-f624048277e0,Canada-Dollar
+85,"Lang, Little and Wehner",Brazil,d2198a44-6b3c-4081-866b-9e3b4d77daa2,Brazil-Real
+86,"Schroeder, Leuschke and Stiedemann",Japan,,Japan-Yen
+87,"Lind, King and Grant",United States,21f6c718-67ab-4670-9932-18c86baffc4c,United States-Dollar
+88,"Rolfson, Conn and Gutkowski",Brazil,6dbb4765-b825-4693-8905-31b565b10fc4,Brazil-Real
+89,"Mosciski, Kuvalis and Batz",United States,b9ee35c0-dfdd-41ac-8e56-35db91a06fdb,United States-Dollar
+90,Wiza-Metz,Netherlands,804ed9b3-c5e4-406f-89d4-403122db04c6,Netherlands-Guilder
+91,"Zemlak, Conn and Ondricka",Canada,70a9ef08-9ad7-43b4-85d3-fea7d12dfdc1,Canada-Dollar
+92,Rath Group,Japan,,Japan-Yen
+93,Welch-Dietrich,Brazil,35f1b3fa-1afc-41cc-a430-726801c46b1f,Brazil-Real
+94,Keeling Group,Japan,2f53d260-45df-4999-85fa-239bcf1041b0,Japan-Yen
+95,Predovic LLC,Brazil,09e2b0d8-b949-4ff4-8fa0-cc95ba4e2c8d,Brazil-Real
+96,Konopelski-Conn,United States,73c7b795-73ed-4037-a98a-b9b32e2fb911,United States-Dollar
+97,Wisozk LLC,Brazil,cec89cfd-5abc-4db4-9f58-fa2d75e3c6b6,Brazil-Real
+98,Terry Group,Brazil,67b0d5dc-d1c2-41fa-b511-582e03d6c42e,Brazil-Real
+99,Rice LLC,Brazil,b2031924-6322-43be-9736-b98c5785e12e,Brazil-Real
+100,"Lynch, Ebert and Sipes",Morocco,7112e235-0b6c-4c86-808f-fbab6a27a6b3,Morocco-Dirham
